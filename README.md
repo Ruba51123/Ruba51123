@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruba51123
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full-stack web developer
-- 📫 How to reach me Rubayasser@gmai.com
+- 📫 How to reach me Rubayasser@gmail.com
 - 😄 Pronouns: Ruba
 
 <!---
